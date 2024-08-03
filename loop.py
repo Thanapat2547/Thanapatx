@@ -8,3 +8,4 @@ count = 5
 while count - 0:
     print(f"นับภอยหลัง {count}")
     count = count - 1
+s
